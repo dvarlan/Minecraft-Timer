@@ -1,0 +1,10 @@
+name: Minecraft-Timer
+version: '${project.version}'
+main: minecrafttimer.minecrafttimer.MinecraftTimer
+api-version: 1.19
+authors: [ dvarlan ]
+description: A simple timer plugin
+website: https://github.com/dvarlan
+commands:
+  timer:
+    description: A timer
