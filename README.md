@@ -1,6 +1,15 @@
 # Minecraft-Timer
  A simple timer plugin for Minecraft 1.19 that also features a countdown.
- 
+
+## Downloading the plugin
+
+- Click on "Releases"\
+![firefox_Sof5EHXpwU](https://user-images.githubusercontent.com/95964411/190235760-334b0cba-9186-4dbe-88c6-f3c6b36789e6.png)
+- Under "Assets" click on "Minecraft-Timer.zip"
+![firefox_sV3lq4K9w5](https://user-images.githubusercontent.com/95964411/190236367-1d6ba3ce-2e17-4fbd-ae46-44d0740e62aa.png)
+- Unzip the file and copy the .jar into the plugins folder of your server
+- Done
+
 ## Usage / Commands
  
  The timer will be paused until the user starts it with an command like e.g. `/timer resume`.
